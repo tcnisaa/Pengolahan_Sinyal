@@ -6,9 +6,26 @@ Melakukan visualisasi dan analisis sinyal ECG (pemeriksaan medis yang digunakan 
 
 Link Dataset ECG: https://www.physionet.org/content/mitdb/1.0.0/
 
-# Chapter 4: 
-Melakukan visualisasi dan analisis sinyal EEG (pemeriksaan medis yang digunakan untuk merekam aktivitas listrik otak) dari dataset, dengan hasil berupa grafik sinyal.
+**Paramethic-Based Model yang digunakan:**
+- Fast Fourier Transform (FFT)
+- Periodogram Power Spectral Density (PPSD)
+- Welch Power Spectral Density (WPSD)
+- Yule-Walker AR Modeling
+- Convarience Method
+- Modified Convarience Method
+- Burg Method
 
-Link Dataset EEG: https://www.ukbonn.de/epileptologie/arbeitsgruppen/ag-lehnertz-neurophysik/downloads/
+**Subspace-Based Model untuk Analiais Spectral:**
+- Music Modeling
+- Eigenvector Modeling
+
+**Time Frequency Model:**
+- Short-Time Fourier Transform: The spectogram
+- Discrete Wavelet
+- Stationary Wavelet
+- Packet Decomposition Wavelet
+- Dual Tree Complex Wavelet
+
+Terdapat Analisis lanjutan, proses Denoised, dan penggunakan Z-Score
 
 Tangguh Chairunnisa
