@@ -26,6 +26,6 @@ Link Dataset ECG: https://www.physionet.org/content/mitdb/1.0.0/
 - Packet Decomposition Wavelet
 - Dual Tree Complex Wavelet
 
-Terdapat Analisis lanjutan, proses Denoised, dan penggunakan Z-Score
+Terdapat Analisis lanjutan, proses Denoised, dan penggunaan Z-Score
 
 Tangguh Chairunnisa
